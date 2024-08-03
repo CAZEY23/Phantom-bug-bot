@@ -8,23 +8,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348108395270"
-global.ownername = "*Phantom+Hacker"
+global.ownernomer = "2349021547428"
+global.ownername = "*CAZEY"
 global.ytname = "YT: phantom-hacks01"
 global.socialm = ""
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '2348108395270'  //creator number
-global.ownername = 'Phantom+Hacker' //owner name
-global.botname = 'xbug bot' //name of the bot
+global.ownernumber = '2349021547428'  //creator number
+global.ownername = 'CAZEY' //owner name
+global.botname = 'CAZEY BUG BOT' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By Phantom'
-global.author = 'Hallo\n\nContact: 2348108395270'
+global.author = 'Hallo\n\nContact: 2349021547428'
 
 //console view/theme
 global.themeemoji = '😡'
-global.wm = "Phantom"
+global.wm = "CAZEY"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaBROanEquiLW3ii1n47'
